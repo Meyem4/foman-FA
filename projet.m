@@ -1,4 +1,4 @@
-%   This file is part of DSSLab. Copyright (C) 2020-2021 Meryem Tahri
+%   This file is part of DSSLab. Copyright (C) 2020-2021 Meryem Tahri and Haytham Tahri
 
 
 
