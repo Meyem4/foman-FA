@@ -1,3 +1,4 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Meyem4/foman-FA&file=projet.m)
 # 
 foman-FA is open source MATLAB user interface, it is a decision making tool based on FA technique to generate the weight calculations and priority choices. 
 
